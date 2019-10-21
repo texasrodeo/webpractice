@@ -1,0 +1,63 @@
+.test-form{
+    font-family:Georgia, Times, "Times New Roman", serif;
+    font-size: 35px; 
+}
+.test-form label{
+    width:50px;
+    margin-top: 3px;
+    margin-left: 10px;
+}
+h1{
+    text-align: center;
+    font-size: 80px; 
+    vertical-align: middle;
+}
+
+
+
+button.submit {
+    background-color: #70d324;
+    background: -webkit-gradient(linear, left top, left bottom, from(#70d324), to(#70d324));
+    background: -webkit-linear-gradient(top, #70d324, #50911e);
+    background: -moz-linear-gradient(top, #70d324, #50911e);
+    background: -ms-linear-gradient(top, #70d324, #50911e);
+    background: -o-linear-gradient(top, #70d324, #50911e);
+    background: linear-gradient(top, #70d324, #50911e);
+    border: 2px solid #509111;
+    border-bottom: 2px solid #5b992b;
+    border-radius: 4px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    box-shadow: inset 0 1px 0 0 #9fd574;
+    -webkit-box-shadow: 0 1px 0 0 #9fd574 inset ;
+    -moz-box-shadow: 0 1px 0 0 #9fd574 inset;
+    -ms-box-shadow: 0 1px 0 0 #9fd574 inset;
+    -o-box-shadow: 0 1px 0 0 #9fd574 inset;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    padding: 20px 35px;
+    text-align: center;
+    text-shadow: 0 -1px 0 #396715;
+}
+
+button.submit:hover {
+    opacity:.75;
+    cursor: pointer;
+}
+button.submit:active {
+    border: 1px solid #20911e;
+    box-shadow: 0 0 10px 5px #356b0b inset;
+    -webkit-box-shadow:0 0 10px 5px #356b0b inset ;
+    -moz-box-shadow: 0 0 10px 5px #356b0b inset;
+    -ms-box-shadow: 0 0 10px 5px #356b0b inset;
+    -o-box-shadow: 0 0 10px 5px #356b0b inset;
+}
+body {
+    
+    background: linear-gradient(to top, #d7e7f0, #d5d3f8);
+    padding: 10px;
+    
+}
+

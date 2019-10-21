@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    font-size: 80px; 
+    vertical-align: middle;
+}
+
+body {
+    font-size: 40px;
+    text-align: center;
+    background: linear-gradient(to top, #d7e7f0, #d5d3f8);
+    padding: 10px;
+    
+}
+
+
+
+.submit {
+    border: 1px solid #333; 
+    display: inline-block;
+    padding: 5px 15px; 
+    text-decoration: none;
+    color: #000; 
+  }
+.submit:hover {
+    box-shadow: 0 0 5px rgba(0,0,0,0.3); 
+    background: linear-gradient(to bottom, #fcfff4, #e9e9ce); 
+    color: rgb(221, 85, 85);
+   }
